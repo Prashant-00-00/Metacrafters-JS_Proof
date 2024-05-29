@@ -46,6 +46,8 @@ mintNFT("ff25f6", "Modern", "Transparent", 0, "Funny", "668b12");
 mintNFT("037c5b", "Classic", "Red", 1, "Wings", "10ae53");
 mintNFT("9c0b0f", "Modern", "Yellow", 0, "Always Serious", "857ab2");
 mintNFT("ac0482", "Classic", "White", 1, "Big Nose", "a484a7");
+mintNFT("ac0652", "Modern", "Black", 1, "Small legs", "a48486");
+
 
 listNFTs();
 getTotalSupply();
