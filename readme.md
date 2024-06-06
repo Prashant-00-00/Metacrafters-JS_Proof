@@ -1,4 +1,4 @@
-# Create an NFTs Collection
+# Create a NFTs Collection
 
 This code provides a simple system for managing a collection of NFTs. It allows you to mint new NFTs with various attributes, view existing NFTs in the collection, and get the total number of NFTs created.
 
