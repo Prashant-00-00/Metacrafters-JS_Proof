@@ -14,5 +14,12 @@ This code provides a simple system for managing a collection of NFTs. It allows 
 The code consists of three main functions:
 
 **mintNFT(id, artStyle, bgColor, hasAccessories, uniqueTrait, creator)**: This function takes various arguments to define the properties of a new NFT and adds it to the NFTs array.
-**listNFTs()**: This function iterates through the NFTs array and prints details about each NFT to the console in a clear format.
-**getTotalSupply()**: This function simply retrieves the length of the NFTs array, representing the total number of NFTs created.
+- **Parameters**:
+  - `id` (string): The unique identifier for the NFT.
+  - `artStyle` (string): The art style of the NFT.
+  - `bgColor` (string): The background color of the NFT.
+  - `hasAccessories` (boolean): Whether the NFT has accessories (1 for Yes, 0 for No).
+  - `uniqueTrait` (string): A unique trait of the NFT.
+  - `creator` (string): The creator's identifier.
+* **listNFTs()**: This function iterates through the NFTs array and prints details about each NFT to the console in a clear format.
+* **getTotalSupply()**: This function simply retrieves the length of the NFTs array, representing the total number of NFTs created.
