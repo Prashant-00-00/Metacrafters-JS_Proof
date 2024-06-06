@@ -13,7 +13,7 @@ This code provides a simple system for managing a collection of NFTs. It allows 
 
 The code consists of three main functions:
 
-**mintNFT(id, artStyle, bgColor, hasAccessories, uniqueTrait, creator)**: This function takes various arguments to define the properties of a new NFT and adds it to the NFTs array.
+* **mintNFT(id, artStyle, bgColor, hasAccessories, uniqueTrait, creator)**: This function takes various arguments to define the properties of a new NFT and adds it to the NFTs array.
 - **Parameters**:
   - `id` (string): The unique identifier for the NFT.
   - `artStyle` (string): The art style of the NFT.
